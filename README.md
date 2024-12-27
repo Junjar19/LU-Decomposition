@@ -32,8 +32,8 @@ ii)
 ```
 /*
 Program to find the L and U matrix.
-Developed by:G.Mithik jain 
-RegisterNumber: 24001881
+Developed by:Junjar U
+RegisterNumber: 24008873
 */
 import numpy as np
 from scipy.linalg import lu
@@ -47,8 +47,8 @@ print(u_matrix)
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: G.Mithik jain
-RegisterNumber: 24001881
+Developed by: Junjar U
+RegisterNumber: 24008873
 */
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
@@ -60,10 +60,10 @@ print(solution)
 ```
 
 ## Output:
-i)
+
 ![alt text](<Screenshot 2024-12-26 132549-1.png>)
 
-ii)
+
 ![alt text](<Screenshot 2024-12-26 132654.png>)
 
 ## Result:
