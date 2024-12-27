@@ -61,10 +61,10 @@ print(solution)
 
 ## Output:
 
-![alt text](<Screenshot 2024-12-26 132549-1.png>)
+![image](https://github.com/user-attachments/assets/00fa1f16-f985-40f5-9647-c4ad593dbd43)
 
 
-![alt text](<Screenshot 2024-12-26 132654.png>)
+![image](https://github.com/user-attachments/assets/b4322cd5-a219-43b4-9eed-4bc7ec197556)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
